@@ -9,3 +9,5 @@ Git - https://git-scm.com/downloads
 Notepad++ Editor - https://notepad-plus-plus.org/download/
 
 WinSCP - https://winscp.net/eng/download.php
+
+Node JS - https://nodejs.org/en/download/
